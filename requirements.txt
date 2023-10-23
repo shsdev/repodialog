@@ -1,0 +1,13 @@
+langchain
+hugginface_hub
+sentence_transformers
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
+unstructured
+chromadb
+Cython
+unstructured[local-inference]
+sentence-transformers
